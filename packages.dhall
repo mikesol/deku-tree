@@ -104,7 +104,7 @@ let additions =
           , "web-html"
           ]
         , repo = "https://github.com/mikesol/purescript-deku.git"
-        , version = "v0.4.2"
+        , version = "tldw"
         }
       , monoid-extras =
         { dependencies = [ "profunctor-lenses" ]
@@ -115,7 +115,7 @@ let additions =
         { dependencies = [ "prelude" ]
         , repo = "https://github.com/mikesol/purescript-bolson.git"
         , version = "v0.0.2"
-        } 
+        }
       }
 
 in  upstream // additions

@@ -11,6 +11,7 @@
   , "prelude"
   , "routing"
   , "slug"
+  , "st"
   , "strings"
   , "tuples"
   , "web-events"
